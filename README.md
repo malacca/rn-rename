@@ -8,3 +8,5 @@
 # 使用
 
 `npx rn-rename newName [newPackage] [-opt]`
+
+
